@@ -1,0 +1,15 @@
+div{
+	padding: 40px 20px 70px 100px;
+	border-top: 20px solid;
+	border-right: 10px solid;
+	border-bottom: 20px solid;
+	border-left: 10px solid;
+	border-color:purple;
+	margin: 120px 60px 30.5px;
+	background-color: #EBB4A2;
+	}
+p{
+	text-align: center;
+	background-color: white;
+	border:2px dashed green;
+}
